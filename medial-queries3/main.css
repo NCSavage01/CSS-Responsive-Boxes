@@ -1,3 +1,96 @@
 body {
   background: peachpuff;
 }
+
+.a{
+display: flex;
+border: 1px solid black;
+min-width: 100%;
+min-height: 25vh;
+align-items: center;
+margin: 2px;
+justify-content: center;
+}
+
+.b{
+display: flex;
+border: 1px solid black;
+align-items: center;
+position: absolute;
+min-width: 20%;
+min-height: 20vh;
+justify-content: center;
+left: 10px;
+top: 210px;
+}
+
+.c{
+display: flex;
+border: 1px solid black;
+min-height: 20vh;
+min-width: 20%;
+top: 210px;
+left: 315px;
+position: absolute;
+justify-content: center;
+align-items: center;
+}
+
+.d{
+display: flex;
+border: 1px solid black;
+position: absolute;
+top: 210px;
+left: 620px;
+min-width: 20%;
+min-height: 20vh;
+justify-content: center;
+align-items: center;
+}
+
+.e{
+display: flex;
+border: 1px solid black;
+align-items: center;
+min-width: 20%;
+min-height: 20vh;
+top: 375px;
+left: 10px;
+justify-content: center;
+position: absolute;
+}
+
+.f{
+display: flex;
+border: 1px solid black;
+align-items: center;
+position: absolute;
+min-height: 20vh;
+min-width: 20%;
+left: 315px;
+top: 375px;
+justify-content: center;
+}
+
+.g{
+  display: flex;
+border: 1px solid black;
+align-items: center;
+position: absolute;
+min-height: 20vh;
+min-width: 20%;
+left: 620px;
+top: 375px;
+justify-content: center;
+}
+
+.h{
+display: flex;
+border: 1px solid black;
+align-items: center;
+position: absolute;
+min-height: 46vh;
+min-width: 30%;
+right: 10px;
+justify-content: center;
+}

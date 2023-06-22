@@ -1,3 +1,70 @@
 body {
   background: papayawhip;
 }
+
+.a{
+display: flex;
+border: 1px solid black;
+min-width: 100%;
+min-height: 25vh;
+align-items: center;
+margin: 2px;
+justify-content: center;
+}
+
+.b{
+display: flex;
+border: 1px solid black;
+align-items: center;
+position: absolute;
+min-width: 60%;
+min-height: 25vh;
+justify-content: center;
+left: 10px;
+}
+
+.c{
+display: flex;
+border: 1px solid black;
+min-height: 20vh;
+min-width: 20%;
+top: 400px;
+left: 10px;
+position: absolute;
+justify-content: center;
+}
+
+.d{
+display: flex;
+border: 1px solid black;
+position: absolute;
+top: 400px;
+left: 300px;
+min-width: 20%;
+min-height: 20vh;
+justify-content: center;
+align-items: center;
+}
+
+.e{
+display: flex;
+border: 1px solid black;
+align-items: center;
+min-width: 20%;
+min-height: 20vh;
+top: 400px;
+left: 600px;
+justify-content: center;
+position: absolute;
+}
+
+.f{
+display: flex;
+border: 1px solid black;
+align-items: center;
+position: absolute;
+min-height: 46vh;
+min-width: 33%;
+right: 4px;
+justify-content: center;
+}
